@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\application.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\genericalertbox.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\shareduiresources.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\uidescriptionwindowcontroller.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\window.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\helpers\value.cpp">
+      <Filter>source\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32application.cpp">
+      <Filter>source\platform\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32async.cpp">
+      <Filter>source\platform\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32commondirectories.cpp">
+      <Filter>source\platform\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32menu.cpp">
+      <Filter>source\platform\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32preference.cpp">
+      <Filter>source\platform\win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32window.cpp">
+      <Filter>source\platform\win32</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\appinit.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\doc.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\fwd.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\ialertbox.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\iappdelegate.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\iapplication.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\iasync.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\icommand.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\icommondirectories.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\imenubuilder.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\interface.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\ipreference.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\ishareduiresources.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\iuidescwindow.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\ivalue.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\ivaluelistener.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\iwindow.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\iwindowcontroller.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\iwindowlistener.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\helpers\appdelegate.h">
+      <Filter>include\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\helpers\async.h">
+      <Filter>include\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\helpers\menubuilder.h">
+      <Filter>include\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\helpers\preferences.h">
+      <Filter>include\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\helpers\value.h">
+      <Filter>include\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\helpers\valuelistener.h">
+      <Filter>include\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\helpers\windowcontroller.h">
+      <Filter>include\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\helpers\windowlistener.h">
+      <Filter>include\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\helpers\uidesc\modelbinding.h">
+      <Filter>include\helpers\uidesc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\include\helpers\uidesc\customization.h">
+      <Filter>include\helpers\uidesc</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\application.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\genericalertbox.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\shareduiresources.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\window.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\iplatformwindow.h">
+      <Filter>source\platform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32async.h">
+      <Filter>source\platform\win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32commondirectories.h">
+      <Filter>source\platform\win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32menu.h">
+      <Filter>source\platform\win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32preference.h">
+      <Filter>source\platform\win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\source\platform\win32\win32window.h">
+      <Filter>source\platform\win32</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tre\Downloads\vst-sdk_3.7.11_build-10_2024-04-22\VST_SDK\vst3sdk\vstgui4\vstgui\standalone\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{BF78D787-9F6F-3678-B859-187EE31927E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\helpers">
+      <UniqueIdentifier>{F9D23A39-B100-3FBD-8C52-09E9416D2AF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\helpers\uidesc">
+      <UniqueIdentifier>{BF8B520B-53BB-3E6C-8827-57BA2965349D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{CDD93792-8F08-3DC7-A935-2CB528712525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\helpers">
+      <UniqueIdentifier>{FA6F2956-7C35-3D5F-A009-585D9DB2A2B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\platform">
+      <UniqueIdentifier>{CE7E8A70-EFAB-3374-864C-6137044D76C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\platform\win32">
+      <UniqueIdentifier>{CA6C7E7B-641A-3021-B4EA-15ED52F8DA9D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
